@@ -1,1 +1,1 @@
-# Write a constitution
+# Write a Constitution
