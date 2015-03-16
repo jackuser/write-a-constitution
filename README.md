@@ -6,3 +6,5 @@ This is a course in which you should learn how to write a constitution. We hope 
 2. [Comparison of US Constitution and UK Constitution from Constitute Project](https://www.constituteproject.org/search?lang=en&compare=United_Kingdom_2013&compare=United_States_of_America_1992)
 
 ##Types of Constitutions
+1. [Codified and Uncodified](Codified and Uncodified Constitutions.md)
+2. [Written and Unwritten](Written and Unwritten Constitutions.md)
